@@ -34,7 +34,7 @@ OPENOFFİCE: Microsoft ofis alternatif programıdır
 
 Bence kısa bir zaman sonra Türkiye'deki Kamu kurumları ve kuruluşları Açık Kodlu Kaynakları kullanmaya başlayacaklardır.
 Geliştirilebilir olmasınan ithal ve hazır çözümler yerine teknolojiyi üreten insanların ülke içerisinde yetişmesine
-öncülük eder. Rekabeti arttırır ve dışa bağımlılığı azaltmış olur. böylece Para tasarrufu da sağlar. 
+öncülük eder. Rekabeti arttırır ve dışa bağımlılığı azaltmış olur. Böylece Para ve Kaynak tasarrufu da sağlar.
 
 Bu arada açık kaynak birazcık bağımlılık yapar :))) Ben Sonuna kadar açık kaynak kodlu yazılımları destekliyorum..
 
