@@ -15,7 +15,7 @@ Açık kaynak kodlu yazılım işbirliğine dayanmaktadır. Kaynak kodunu kullan
 ve ölçeklenebilir hale gelmiş olur.
 
 Açık Kaynak Kodlar;
-0:güvenlidir
+0:Güvenlidir
 1:Sağlamdır
 2:Hızlıdır
 3:Güçlüdür
@@ -33,7 +33,7 @@ LİBREOFFİCE: Microsoft ofis alternatif programıdır
 OPENOFFİCE: Microsoft ofis alternatif programıdır
 
 Bence kısa bir zaman sonra Türkiye'deki Kamu kurumları ve kuruluşları Açık Kodlu Kaynakları kullanmaya başlayacaklardır.
-Geliştirilebilir olmasınan ithal ve hazı çözümler yerine teknolojiyi üreten insanların ülke içerisinde yetişmesine
+Geliştirilebilir olmasınan ithal ve hazır çözümler yerine teknolojiyi üreten insanların ülke içerisinde yetişmesine
 öncülük eder. Rekabeti arttırır ve dışa bağımlılığı azaltmış olur. böylece Para tasarrufu da sağlar. 
 
 Bu arada açık kaynak birazcık bağımlılık yapar :))) Ben Sonuna kadar açık kaynak kodlu yazılımları destekliyorum..
