@@ -1,0 +1,96 @@
+Merhabalar. Ben Misli Çelik...
+Sizlere Açık kaynak kodlu yazılımlar (Open Source Code) hakkında  bilgiler vermek istiyorum.
+Kendi anladığım ve öğrendiğim şekilde sizlerle paylaşacağım...
+Kendime öğretmek ve Açık Kaynak Kodlu yazılımları özümsemek için hazırladım.
+
+********
+
+Açık kaynak kodlu yazılım herkesin erişebileceği, değiştirebileceği, geliştirebileceği yazılımlardır fakat bir yazılımın açık kaynak kodlu olması o kod üzerinde
+her istediğinizi yapabilecğiniz anlamına gelmez bunu da dipnot olarak söylemiş olayım. 
+
+Açık kaynak kod dendiğinde akla GNU/Linux işletim sistemi gelmektedir. Genelde açık kod dendiğinde bilgisayarın işletim sisteminin yalnızca GNU/Linux olabileceği 
+düşünülür, bu doğru değil. Bilgisayarınızda Windows veya Mac işletim sistemi kullanıyor olsanız da  açık kaynak kodlu yazılımları kullanabilirsiniz.
+
+Açık kaynak kodlu yazılım işbirliğine dayanmaktadır. Kaynak kodunu kullanıp değiştirmek bunları paylaşmak için incelenmeyi gerektirir. Böylece kodlar geliştirilir 
+ve ölçeklenebilir hale gelmiş olur.
+
+Açık Kaynak Kodlar;
+0:güvenlidir
+1:Sağlamdır
+2:Hızlıdır
+3:Güçlüdür
+
+Açık kaynak kodlu programlar virüsler için de çözüm sağlar ve bu çözümleri daha az maaliyetle bizlere sunar.
+
+En çok kullanılan ve en çok bilinen programlar ise;
+GNU/Linux: Açık kaynaklı kod yazma programı
+GNU: Photoshop' a alternatif olarak üretilmiştir
+PARDUS: Tubitak tarafından üretilen milli işletim sistemimizdir
+DEBİAN: program yazma programıdır
+OPENSHOT: Video edit programıdır
+BLENDER 3D: 3 boyutlu yazılım programıdır
+LİBREOFFİCE: Microsoft ofis alternatif programıdır
+OPENOFFİCE: Microsoft ofis alternatif programıdır
+
+Bence kısa bir zaman sonra Türkiye'deki Kamu kurumları ve kuruluşları Açık Kodlu Kaynakları kullanmaya başlayacaklardır.
+Geliştirilebilir olmasınan ithal ve hazı çözümler yerine teknolojiyi üreten insanların ülke içerisinde yetişmesine
+öncülük eder. Rekabeti arttırır ve dışa bağımlılığı azaltmış olur. böylece Para tasarrufu da sağlar. 
+
+Bu arada açık kaynak birazcık bağımlılık yapar :))) Ben Sonuna kadar açık kaynak kodlu yazılımları destekliyorum..
+
+
+*********
+
+
+Bazı önemli Açık Kaynak Kodlu Yazılımlar'dan Bahsedeyim.
+
+DRUPAL: İçerik yönetim sistemi (CMS): Açık kaynak bir içerik yönetim sistemidir. 
+Başka bir deyişle web, intranetler ve mobil platform uygulamaları geliştirmek için kullanılan 
+bir deneyim yönetimi çatısıdır. ücretsiz bir açık kaynaktır. Genel anlamıyla, bir web sitesi 
+oluşturmak ve oluşturulan bu web sitesi üzerinde düzenlemeler, içerik ekleme ya da çıkarmalar 
+yapmamızı sağlayan bir içerik yönetim sistemidir.
+
+JOOMLA: İçerik yönetim sistemi (CMS): Açık kaynak bir içerik yönerim sistemidir. PHP ve MySQL 
+ile MVC olarak geliştrilimiştir. Joomla genel anlamda web içeriğini yayınlamak için kullanılır.
+Tabiki çok daha uzun anlatılabilir :)
+
+WordPress: İçerik Yönetim Sistemi (CMS): WordPress, GPL lisanslı, PHP ve MySQL kullanılarak 
+yazılmış bir kişisel yayın sistemidir. B2/cafelog projesinin resmi devamı kabul edilir. 
+Bu niteliği ile sadece makale yazma ve düzenleme veya blog sistemi olarak değil, her 
+türlü içeriğin düzenlenip yayımlanabileceği bir platform olduğu anlamına gelmektedir. 
+WordPress yazım alıntıdır...
+
+GNU/Linux Çekirdeği ve Dağıtımları: İşletim Sistemi:Linux çekirdeği, GNU araçları ve bir 
+masaüstü ortamının bir araya gelmesiyle, bu birlikteliği sürdürülebilir şekilde yönetecek bir 
+yapılandırma araçları seti, yazılım güncelleme araçları vb. ile oluşturularak tam teşekküllü 
+bir işletim sistemi haline gelen uygulamalar bütününü ifade eder. Debian, Red Hat, Fedora, 
+Linux Mint, openSUS, Kali, Arch Linux, Manjaro,  Ubuntu, Pardus, Milis, Pupy vb dağıtımlar 
+mevcuttur.
+Linux Çekirdeği ve Dağıtımları alıntıdır...
+
+PHP: Komut dosyası dili: PHP geniş bir kitle tarafından kullanılan, özellikle sanal yöreler 
+üzerinde geliştirme için tasarlanmış HTML içine gömülebilen bir betik dilidir.
+
+Python: Programlama dili: En sevdiğim ve en bayıldığım programlama dilidir. Dili çok rahat ve 
+açık olan bu programlama dili şu dıralar veri tabanları için de popüler. Nesne yönelimli, 
+yorumlamalı, birimsel ve etkileşimli yüksek seviyeli bir programlama dilidir. Girintilere dayalı 
+basit söz dizimi, dilin öğrenilmesini ve akılda kalmasını kolaylaştırır.
+
+LibreOffice: Ofis yazılım setleri: Piyasadaki Açık Kaynaklı Ofis yazılımını 
+oluşturmayı sağlayan birçok uygulama içermektedir: 
+Writer; kelime işlemci, 
+Calc; hesap tablosu uygulaması , 
+Impress; sunu, 
+Draw; çizim ve akış şeması uygulaması, 
+Base; veritabanı ve veritabanı ön ucu ve matematik yazılımı
+
+
+
+
+
+
+
+
+
+
+
